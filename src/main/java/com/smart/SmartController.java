@@ -112,7 +112,7 @@ public class SmartController {
 		
 		model.addAttribute("nomArticle",nomArticle);
 		model.addAttribute("chemin", chemin);
-		model.addAttribute("price","15 €");
+		model.addAttribute("price","15 €");//COMMENT
 		//model.addAttribute("price",articles.get(nomArticle));
 		
 		/**model.addAttribute("merchantID", merchantID);
